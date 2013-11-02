@@ -42,6 +42,8 @@ Wird das Verzeichnis geöffnet, erscheinen 3 Einträge :
 - SDK, die erforderlichen Bibliotheken und Programme, um sich mit einem Android unterhalten zu können
 - SDK Manager, um das SDK auf verschiedene Android-Versionen einstimmen zu können. Keine Sorge, die Grundeinstellungen reichen für den Anfang aus.
 
+<Das Ende ist noch nicht erreicht. Morgen geht es hier weiter>
+
 PS:
 
 Andere Aktivitäten meinerseits sind auf https://github.com/ufuchs zu finden.
