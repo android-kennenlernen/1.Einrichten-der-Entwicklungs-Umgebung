@@ -25,17 +25,17 @@ Anmerken möchte ich noch, daß die Beispiel-Apps natürlich nicht die eigene me
 
 **3. Wie lade ich mir die Beispiel-Apps herunter?**
 
-Diese Projekt-Seite ist in erster Linie für Windows-Nutzer gedacht.
-Ladet einfach die zip-Datei des jeweiligen Projektes herunter!
+Diese Projekt-Seite ist in _erster Linie_ für Windows-Nutzer gedacht.
+Ladet Euch einfach die zip-Datei des jeweiligen Projektes herunter und entpackt diese!
 Dazu ist auf der jeweiligen Github-Projekt-Seite der Schalter 'Download ZIP' zu betätigen.
 Diesen findet Ihr auf der rechten Seite ganz unten!!!
 
-*Anmerkung für 'git'-Nutzer*
-
-Damit das zip-Archiv für Windows-Nutzer keine Probleme heraus beschwört, habe ich in meiner '.git/config' folgendes Attribut gesetzt :
-
+*Anmerkung für die 'git'-Nutzer unter Euch*
+Damit das jeweilige zip-Archiv für Windows-Nutzer keine Probleme herauf beschwört, habe ich in meiner '.git/config' folgendes Attribut gesetzt :
 [core]
     autocrlf = false
+
+Hintergrund ist einfach der, es den Windows-Leuten da draußen einfach zu machen und DEREN 'eol conventions' einzuhalten. Sorry.
 
 Also, viel Erfolg und Spaß bei allem!
 
