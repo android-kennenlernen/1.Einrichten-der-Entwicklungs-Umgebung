@@ -11,17 +11,17 @@ Diese Github-Seite ist einzig und allein dazu gedacht, den Einstieg in die Andro
 
 Die Betonung liegt dabei auf Einstieg.
 
-Dies schließt ein, welche Programm-Pakete sind überhaupt notwendig, um mich mit einem Android unterhalten zu können  
-und   
-erste, *überschaubare* Beispiel-Projekte.
+Dies schließt ein, 
+- welche Programm-Pakete sind überhaupt notwendig, um mich mit einem Android unterhalten zu können  
+- erste, *überschaubare* Beispiel-Projekte.
 
-**Überschaubar** heißt in diesem Fall, daß die sogenannte *good practice*, e.g. 'separation of concerns', 'inversion of control' usw. nicht zur Anwendung kommen!
+**Überschaubar** heißt in diesem Fall, daß die sogenannte *good practice*, e.g. 'separation of concerns', 'inversion of control' usw. völlig beiseite gelegt wurde!
 
 (Dies würde schlichtweg nur den Blick auf das Eigentliche, Unbekannte, Neue vernebeln. Verzeihung!)
 
 **Zur Sache**
 
-Diese (kostenfreie) Entwicklungs-Umgebung findet man/frau [hier](http://developer.android.com/sdk/index.html).  
+Die (kostenfreie) Entwicklungs-Umgebung findet man/frau [hier](http://developer.android.com/sdk/index.html).  
 
 Der 'Download the SDK'-Schalter auf der Web-Seite bietet nun die passende Entwicklungs-Umgebung für das erkannte Betriebssystem an.  
 
