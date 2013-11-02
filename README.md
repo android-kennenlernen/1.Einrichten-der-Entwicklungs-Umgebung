@@ -1,6 +1,6 @@
 Readme-Version : 0.1  
 Stand vom      : 2013-NOV-02  
-Verfasser      : Uli Fuchs  
+Verfasser      : Uli Fuchs
 
 Bevor man beginnen kann
 =======================
