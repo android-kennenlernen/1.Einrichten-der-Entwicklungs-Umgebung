@@ -5,7 +5,7 @@ Verfasser      : Uli Fuchs
 Bevor man beginnen kann
 =======================
 
-**Vorwort**
+***Vorwort***
 
 Diese Github-Seite ist einzig und allein dazu gedacht, den Einstieg in die Android-Programmierung zu erleichtern.
 
