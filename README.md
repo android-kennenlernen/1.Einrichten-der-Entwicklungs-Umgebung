@@ -25,6 +25,6 @@ Nicht, daß wir dies nicht können, sondern weil dadurch nur der Blick auf das E
 
 Anmerken möchte ich noch, daß die Beispiel-Apps natürlich nicht die eigene mehr oder minder tiefgreifende Literatur-Recherche zum Thema Android-Programmierung ersetzen können.
 
-Also, viel Erfolg und Spaß an allem!
+Also, viel Erfolg und Spaß bei allem!
 
 
