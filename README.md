@@ -25,7 +25,7 @@ Der 'Download the SDK'-Schalter auf der Web-Seite bietet nun die passende Entwic
 Man/frau kann da nichts falsch machen und bedenkenlos auf 'Download the SDK' drücken.  
 
 Im Falle von meiner Windows-Version (Windows 7 64bit) befindet sich danach im Download-Ordner eine Datei namens 
-  adt-bundle-windows-x86_64-20131030.zip  
+- adt-bundle-windows-x86_64-20131030.zip  
 Die Zahlenfolge '20131030' stelt einen Zeitstempel dar und deutet auf das Datum '30.10.2013' hin.  
 
 Dieses zip-Datei enthält zunächst ein Verzeichnis namens
