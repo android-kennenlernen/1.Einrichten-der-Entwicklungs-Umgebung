@@ -7,10 +7,8 @@ Bevor man beginnen kann
 
 ***Vorwort***
 
-Diese Github-Seite ist einzig und allein dazu gedacht, den Einstieg in die Android-Programmierung zu erleichtern.
-
-Die Betonung liegt dabei auf Einstieg.
-
+Diese Github-Seite ist einzig und allein dazu gedacht, den Einstieg in die Android-Programmierung zu erleichtern.  
+Die Betonung liegt dabei auf Einstieg.  
 Dies schließt ein, 
 - welche Programm-Pakete sind überhaupt notwendig, um mich mit einem Android unterhalten zu können  
 - erste, *überschaubare* Beispiel-Projekte.
