@@ -33,7 +33,7 @@ Diesen findet Ihr auf der rechten Seite ganz unten!!!
 *Anmerkung für die 'git'-Nutzer unter Euch*  
 Damit das jeweilige zip-Archiv für Windows-Nutzer keine Probleme herauf beschwört, habe ich in meiner '.git/config' folgendes Attribut gesetzt :  
 [core]  
-    autocrlf = false  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;autocrlf = false  
 
 Hintergrund ist einfach der, es den Windows-Leuten da draußen einfach zu machen und DEREN 'eol conventions' einzuhalten. Sorry.  
 
