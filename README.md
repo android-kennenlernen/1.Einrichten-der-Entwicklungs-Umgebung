@@ -15,9 +15,8 @@ Dies schließt ein,
 - welche Programm-Pakete sind überhaupt notwendig, um mich mit einem Android unterhalten zu können  
 - erste, *überschaubare* Beispiel-Projekte.
 
-**Überschaubar** heißt in diesem Fall, daß die sogenannte *good practice*, e.g. 'separation of concerns', 'inversion of control' usw. völlig beiseite gelegt wurde!
-
-(Dies würde schlichtweg nur den Blick auf das Eigentliche, Unbekannte, Neue vernebeln. Verzeihung!)
+**Überschaubar** heißt, wir lassen einfach mal die hohe Kunst('separation of concerns', 'inversion of control') außen vor, um nicht 
+den Blick auf das Eigentliche, Unbekannte, Neue vernebeln.(Verzeihung!)
 
 **Zur Sache**
 
