@@ -31,7 +31,9 @@ Dazu ist auf der jeweiligen Github-Projekt-Seite der Schalter 'Download ZIP' zu 
 Diesen findet Ihr auf der rechten Seite ganz unten!!!  
 
 *Anmerkung für die 'git'-Nutzer unter Euch*  
-Damit das jeweilige zip-Archiv für Windows-Nutzer keine Probleme herauf beschwört, habe ich in meiner '.git/config' folgendes Attribut gesetzt :  
+Damit das jeweilige zip-Archiv für Windows-Nutzer keine Probleme herauf beschwört, habe ich in meiner  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.git/config  
+folgendes Attribut gesetzt :  
 [core]  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;autocrlf = false  
 
