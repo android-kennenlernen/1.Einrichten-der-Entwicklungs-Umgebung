@@ -27,7 +27,11 @@ Anmerken möchte ich noch, daß die Beispiel-Apps natürlich nicht die eigene me
 
 Diese Projekt-Seite ist in _erster Linie_ für Windows-Nutzer gedacht.  
 Ladet Euch einfach die zip-Datei des jeweiligen Projektes herunter und entpackt diese!  
-Dazu ist auf der jeweiligen Github-Projekt-Seite der Schalter 'Download ZIP' zu betätigen.  
+Dazu ist auf der 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jeweiligen Github-Projekt-Seite  
+der Schalter 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'Download ZIP'  
+zu betätigen.  
 Diesen findet Ihr auf der rechten Seite ganz unten!!!  
 
 *Anmerkung für die 'git'-Nutzer unter Euch*  
