@@ -41,7 +41,7 @@ folgendes Attribut gesetzt :
 [core]  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;autocrlf = false  
 
-Hintergrund ist einfach der, es den Windows-Leuten da draußen einfach zu machen und DEREN 'eol conventions' einzuhalten. Sorry.  
+Hintergrund ist einfach der, mich nach den Windows-Leuten zu richten und DEREN 'eol conventions' einzuhalten. Sorry.  
 
 Also, viel Erfolg und Spaß bei allem!  
 
