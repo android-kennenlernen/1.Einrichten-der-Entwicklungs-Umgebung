@@ -48,7 +48,7 @@ Los geht's nun mit [1.1 Beschaffen der Entwicklungs-Umgebung](https://github.com
 
 [PS]  
 Wie Ihr seht, enden alle diese Test-Dateien auf *.md.  
-Nennt sich 'Markdown' und ist ein verkürztes HTML-Format. 
+Nennt sich 'Markdown' und ist ein verkürztes HTML-Format.  
 PRO:  
 Aller Text schaut sich in Browser strukturierter an.  
 CON:  
