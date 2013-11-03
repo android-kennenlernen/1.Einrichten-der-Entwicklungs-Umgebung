@@ -44,6 +44,6 @@ Hintergrund ist einfach der, mich nach den Windows-Leuten zu richten und DEREN '
 
 Also, viel Erfolg und Spaß bei allem!  
 
-PS: Los geht's nun mit [1.Beschaffen der Entwicklungs-Umgebung](https://github.com/android-kennenlernen/1.Einrichten-der-Entwicklungs-Umgebung/blob/master/1.Beschaffen%20der%20Entwicklungs-Umgebung.md)'
+PS: Los geht's nun mit [1.Beschaffen der Entwicklungs-Umgebung](https://github.com/android-kennenlernen/1.Einrichten-der-Entwicklungs-Umgebung/blob/master/1.1 Beschaffen%20der%20Entwicklungs-Umgebung.md)'
 
 
