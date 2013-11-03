@@ -46,4 +46,13 @@ Also, viel Erfolg und Spaß bei allem!
 
 Los geht's nun mit [1.1 Beschaffen der Entwicklungs-Umgebung](https://github.com/android-kennenlernen/1.Einrichten-der-Entwicklungs-Umgebung/blob/master/1.1 Beschaffen%20der%20Entwicklungs-Umgebung.md)
 
+[PS]
+Wie Ihr seht, enden alle diese Test-Dateien auf *.md.  
+Nennt sich 'Markdown' und ist ein verkürztes HTML-Format. 
+PRO:  
+Aller Text schaut sich in Browser strukturierter an.
+CON:  
+Beim blanken Ausdrucken habt Ihr einige Steuer-Sequenzen drin, welche der Lesbarkeit nicht gerade dienlich sind.  
+(Habe mich für das Erstere entschieden.)
+
 
