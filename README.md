@@ -27,18 +27,24 @@ Anmerken möchte ich noch, daß die Beispiel-Apps natürlich nicht die eigene me
 
 Diese Projekt-Seite ist in _erster Linie_ für Windows-Nutzer gedacht.  
 Ladet Euch einfach die zip-Datei des jeweiligen Projektes herunter und entpackt diese!  
-Dazu ist auf der jeweiligen Github-Projekt-Seite der Schalter 'Download ZIP' zu betätigen.  
+Dazu ist auf der  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jeweiligen Github-Projekt-Seite  
+der Schalter  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'Download ZIP'  
+zu betätigen.  
 Diesen findet Ihr auf der rechten Seite ganz unten!!!  
 
 *Anmerkung für die 'git'-Nutzer unter Euch*  
-Damit das jeweilige zip-Archiv für Windows-Nutzer keine Probleme herauf beschwört, habe ich in meiner '.git/config' folgendes Attribut gesetzt :  
+Damit das jeweilige zip-Archiv für Windows-Nutzer keine Probleme herauf beschwört, habe ich in meiner  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.git/config  
+folgendes Attribut gesetzt :  
 [core]  
-    autocrlf = false  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;autocrlf = false  
 
-Hintergrund ist einfach der, es den Windows-Leuten da draußen einfach zu machen und DEREN 'eol conventions' einzuhalten. Sorry.  
+Hintergrund ist einfach der, mich nach den Windows-Leuten zu richten und DEREN 'eol conventions' einzuhalten. Sorry.  
 
 Also, viel Erfolg und Spaß bei allem!  
 
-PS: Los geht's nun mit '1.Beschaffen der Entwicklungs-Umgebung.md'
+PS: Los geht's nun mit [1.Beschaffen der Entwicklungs-Umgebung](https://github.com/android-kennenlernen/1.Einrichten-der-Entwicklungs-Umgebung/blob/master/1.Beschaffen%20der%20Entwicklungs-Umgebung.md)'
 
 
