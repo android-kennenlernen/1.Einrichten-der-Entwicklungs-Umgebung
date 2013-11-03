@@ -14,7 +14,7 @@ Anhand von einfachen Beispiel-Apps soll der Einstieg in die Android-Programmieru
 Dies umfasst
 - wie ist eine Android-App grundsätzlich aufgebaut
 - wie interagiert man mit den Steuer-Elementen(Auslesen, Beschreiben, auf Touch/Click reagieren)
-- wie wechselt man zwischen verschiedene Screens innerhalb einer App
+- wie wechselt man zwischen verschiedene Screens(Activity's) innerhalb einer App
 - wie speichert man Daten lokal in einer einfachen Datei
 - wie speichert man Daten lokal per SQL
 
