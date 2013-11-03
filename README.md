@@ -16,7 +16,6 @@ Dies umfasst
 - wie wechselt man zwischen verschiedene Screens innerhalb einer App
 - wie speichert man Daten lokal in einer einfachen Datei
 - wie speichert man Daten lokal per SQL
-- wie speichert man Daten übers Internet auf einem entfernten SQL-Server
 
 Die Einfachheit der Apps schliesst jegliche Paradigmen wie 'separation of concerns', 'inversion of control' usw. aus.  
 Nicht, daß wir dies nicht können, sondern weil dadurch nur der Blick auf das Eigentliche, Unbekannte, Neue schlichtweg getrübt würde.
