@@ -4,7 +4,7 @@ Für jeden, der über gefestigte Kenntnisse in JAVA verfügt.
 D.h., man sollte schon JAVA-Quelltexte verstehen und zielgerichtet ändern können.  
 Ein Erfahrungsschatz, wenn auch in einer anderen Sprache, betreffs
 - Sql-Datenbanken-Anbindung
-- Internet-Kommunikation
+- Internet-Kommunikation  
 erleichtert das Verständnis der Beispiel-Projekte.
 
 **2. Was ist die Absicht dieser Projekt-Seite?**
