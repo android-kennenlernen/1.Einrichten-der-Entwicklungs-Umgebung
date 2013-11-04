@@ -1,4 +1,4 @@
-## 1. Für wen ist diese Projekt-Seite geeignet?
+### 1. Für wen ist diese Projekt-Seite geeignet?
 
 Für jeden, der über gefestigte Kenntnisse in JAVA verfügt.  
 D.h., man sollte schon JAVA-Quelltexte verstehen und zielgerichtet ändern können.  
@@ -8,7 +8,7 @@ Ein Erfahrungsschatz, wenn auch in einer anderen Sprache, betreffs
 
 erleichtert das Verständnis der Beispiel-Projekte.
 
-**2. Was ist die Absicht dieser Projekt-Seite?**
+### 2. Was ist die Absicht dieser Projekt-Seite?
 
 Anhand von einfachen Beispiel-Apps soll der Einstieg in die Android-Programmierung erleichtert werden.  
 Dies umfasst
