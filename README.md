@@ -1,4 +1,4 @@
-﻿**1. Für wen ist diese Projekt-Seite geeignet?**
+## 1. Für wen ist diese Projekt-Seite geeignet?
 
 Für jeden, der über gefestigte Kenntnisse in JAVA verfügt.  
 D.h., man sollte schon JAVA-Quelltexte verstehen und zielgerichtet ändern können.  
