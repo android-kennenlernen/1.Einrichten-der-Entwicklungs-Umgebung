@@ -38,7 +38,7 @@ Diesen findet Ihr auf der rechten Seite ganz unten!!!
 Damit das jeweilige zip-Archiv für Windows-Nutzer keine Probleme herauf beschwört, habe ich in meiner  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.git/config  
 folgendes Attribut gesetzt :  
-'[core]'
+  '[core]'
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;autocrlf = false  
 
 Hintergrund ist einfach der, mich nach den Windows-Leuten zu richten und DEREN 'eol conventions' einzuhalten. Sorry.  
