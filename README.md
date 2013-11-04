@@ -34,7 +34,8 @@ der Schalter
 zu betätigen.  
 Diesen findet Ihr auf der rechten Seite ganz unten!!!  
 
-## Anmerkung für die 'git'-Nutzer unter Euch ##
+### Anmerkung für die 'git'-Nutzer unter Euch ###
+
 Damit das jeweilige zip-Archiv für Windows-Nutzer keine Probleme herauf beschwört, habe ich in meiner  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.git/config  
 folgendes Attribut gesetzt :
