@@ -23,7 +23,7 @@ Nicht, daß wir dies nicht können, sondern weil dadurch nur der Blick auf das E
 
 Anmerken möchte ich noch, daß die Beispiel-Apps natürlich nicht die eigene mehr oder minder tiefgreifende Literatur-Recherche zum Thema Android-Programmierung ersetzen können.
 
-**3. Wie lade ich mir die Beispiel-Apps herunter?**
+### 3. Wie lade ich mir die Beispiel-Apps herunter?
 
 Diese Projekt-Seite ist in _erster Linie_ für Windows-Nutzer gedacht.  
 Ladet Euch einfach die zip-Datei des jeweiligen Projektes herunter und entpackt diese!  
@@ -34,7 +34,7 @@ der Schalter
 zu betätigen.  
 Diesen findet Ihr auf der rechten Seite ganz unten!!!  
 
-*Anmerkung für die 'git'-Nutzer unter Euch*  
+## Anmerkung für die 'git'-Nutzer unter Euch ##
 Damit das jeweilige zip-Archiv für Windows-Nutzer keine Probleme herauf beschwört, habe ich in meiner  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.git/config  
 folgendes Attribut gesetzt :
@@ -42,19 +42,8 @@ folgendes Attribut gesetzt :
     [core]
         autocrlf = false  
 
-Hintergrund ist einfach der, mich nach den Windows-Leuten zu richten und DEREN 'eol conventions' einzuhalten. Sorry.  
+Hintergrund ist einfach der, sich nach den Windows-Leuten zu richten und __deren__ 'eol conventions' einzuhalten. Sorry.  
 
 Also, viel Erfolg und Spaß bei allem!  
 
 Los geht's nun mit [1.1 Beschaffen der Entwicklungs-Umgebung](https://github.com/android-kennenlernen/1.Einrichten-der-Entwicklungs-Umgebung/blob/master/1.1 Beschaffen%20der%20Entwicklungs-Umgebung.md)
-
-[PS]  
-Wie Ihr seht, enden alle diese Test-Dateien auf *.md.  
-Nennt sich 'Markdown' und ist ein verkürztes HTML-Format.  
-PRO:  
-Aller Text schaut sich in Browser strukturierter an.  
-CON:  
-Beim blanken Ausdrucken habt Ihr einige Steuer-Sequenzen drin, welche der Lesbarkeit nicht gerade dienlich sind.  
-(Habe mich für das Erstere entschieden.)
-
-
