@@ -48,3 +48,9 @@ Hintergrund ist einfach der, sich nach den Windows-Leuten zu richten und __deren
 Also, viel Erfolg und Spaß bei allem!  
 
 Los geht's nun mit [1.1 Beschaffen der Entwicklungs-Umgebung](https://github.com/android-kennenlernen/1.Einrichten-der-Entwicklungs-Umgebung/blob/master/1.1 Beschaffen%20der%20Entwicklungs-Umgebung.md)
+
+__PS:__
+
+In loser Folge werden zunächst an _dieser_ Stelle Android-bezogene Websites benannt:  
+
+[CS 282: Principles of Operating Systems II: Systems Programming for Android](http://www.dre.vanderbilt.edu/~schmidt/cs282/index.html)
