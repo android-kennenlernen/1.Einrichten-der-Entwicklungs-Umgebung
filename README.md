@@ -53,8 +53,8 @@ __PS:__
 
 In loser Folge werden zunächst an _dieser_ Stelle Android-bezogene Websites benannt:  
 
-[CS 282: Principles of Operating Systems II: Systems Programming for Android](http://www.dre.vanderbilt.edu/~schmidt/cs282/index.html)
-[Pattern-Oriented Software Architectures for Concurrent and Networked Mobile Devices and Clouds](https://www.coursera.org/course/posa)
+- [CS 282: Principles of Operating Systems II: Systems Programming for Android](http://www.dre.vanderbilt.edu/~schmidt/cs282/index.html)
+- [Pattern-Oriented Software Architectures for Concurrent and Networked Mobile Devices and Clouds](https://www.coursera.org/course/posa)
 
 
 
