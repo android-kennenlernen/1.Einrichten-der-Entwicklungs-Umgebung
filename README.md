@@ -21,7 +21,7 @@ Dies umfasst
 Die Einfachheit der Apps schliesst jegliche Paradigmen wie 'separation of concerns', 'inversion of control' usw. aus.  
 Nicht, daß wir dies nicht können, sondern weil dadurch nur der Blick auf das Eigentliche, Unbekannte, Neue schlichtweg getrübt würde.
 
-Jede App ist __genau__ einem Thema gewidmet.
+Zudem ist jede App __genau__ einem Thema gewidmet.
 
 Derzeitige Themen sind
 - also das Einrichten einer Entwicklungs-Umgebung
