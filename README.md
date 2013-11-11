@@ -21,6 +21,19 @@ Dies umfasst
 Die Einfachheit der Apps schliesst jegliche Paradigmen wie 'separation of concerns', 'inversion of control' usw. aus.  
 Nicht, daß wir dies nicht können, sondern weil dadurch nur der Blick auf das Eigentliche, Unbekannte, Neue schlichtweg getrübt würde.
 
+Jede App ist __genau__ einem Thema gewidmet.
+
+Derzeitige Themen sind
+- also das Einrichten einer Entwicklungs-Umgebung
+- Kennenlernen der Zustände, welche ein App in ihrem Lebenszyklus einnehmen kann
+- Beleben einer Nutzer-Oberfläche mit Steuerelementen
+- Einbinden dieser Steuerelemente in den Programm-Code
+- Internationalisierung der Anwendung
+- restliches wird nach Fertigstellung hier fortgeschrieben.
+
+Mag sein, daß diese Vorgehensweise dem einen oder dem anderen zu feingranular erscheint.
+Nur, packt man alles eine Mega-App, denke ich, verschwimmen die einzelnen Konzepte, welche in einer App zum Tragen kommen.
+
 Anmerken möchte ich noch, daß die Beispiel-Apps natürlich nicht die eigene mehr oder minder tiefgreifende Literatur-Recherche zum Thema Android-Programmierung ersetzen können.
 
 ### 3. Wie lade ich mir die Beispiel-Apps herunter?
@@ -50,7 +63,7 @@ Also, viel Erfolg und Spaß bei allem!
 Los geht's nun mit [1.1 Beschaffen der Entwicklungs-Umgebung](https://github.com/android-kennenlernen/1.Einrichten-der-Entwicklungs-Umgebung/blob/master/1.1 Beschaffen%20der%20Entwicklungs-Umgebung.md)
 
 __PS:__  
-In loser Folge werden zunächst an _dieser_ Stelle Android-bezogene Websites benannt:  
+In loser Folge werden zunächst an _dieser_ Stelle weiterführende Android-bezogene Websites benannt:  
 
 - [CS 282: Principles of Operating Systems II: Systems Programming for Android](http://www.dre.vanderbilt.edu/~schmidt/cs282/index.html)
 - [Pattern-Oriented Software Architectures for Concurrent and Networked Mobile Devices and Clouds](https://www.coursera.org/course/posa)
